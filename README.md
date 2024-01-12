@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
+  <a href="https://tuanit.io.vn" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/32692426/229327495-ca6a71df-3601-454f-bd73-a264be56d2de.png" alt="my banner"></a>
 </p>
 
