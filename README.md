@@ -58,4 +58,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tqt97&layout=compact)](https://github.com/tqt97)
 
-<a href="https://app.daily.dev/Tuantq"><img src="https://api.daily.dev/devcards/813cf9923e444a529b9862a2639d564d.png?r=9kh" width="200" alt="Tu Quoc Tuan's Dev Card"/></a>
+<a href="https://app.daily.dev/tuantq"><img src="https://api.daily.dev/devcards/v2/2azsBhHiK3j5UTxtzp3DG.png?r=l3q&type=default" width="356" alt="Quoc Tuan's Dev Card"/></a>
